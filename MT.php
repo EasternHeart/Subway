@@ -1,4 +1,4 @@
-<html lang="zh">
+<html>
 <head>
 <title>Subway</title>
 <script type="text/javascript" >
@@ -8,7 +8,7 @@ include("MT.js");
 </script>
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
-<body>
+<body onload="gTime()">
 <?php
 include("imgs.php");
 ?>

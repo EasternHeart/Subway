@@ -10,3 +10,5 @@
 <div class="a4">
 <img src="3.png" name="i4" onmouseOver="mouseOver_i4()" onmouseOut="mouseOut_i4()" onmouseDown="mouseDown_i4()" onmouseUp="mouseUp_i4()" />
 </div>
+<div class="b_b" id="pdate"></div>
+<div class="b_b" id="psec"></div>
