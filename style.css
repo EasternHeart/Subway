@@ -1,7 +1,13 @@
-p,h1 {font-family:WenQuanYi MicroHei,Microsoft YaHei,文泉驿微米黑,微软雅黑,黑体,Sans;}
-div.b_b {color:white;background-color:blue;position:absolute;left:30px;top:240px;height:200;width:300;text-align:center;font-size:200%;}
+p,h1,div {font-family:WenQuanYi MicroHei,Microsoft YaHei,文泉驿微米黑,微软雅黑,黑体,Sans;}
+div.block {background-image:url(3.png)}
+div.block:hover {background-image:url(1.png)}
+div.block:active {background-image:url(2.png)}
+div.b_b {color:white;position:absolute;left:30px;top:240px;height:200;width:300;text-align:center;font-size:200%;}
 div#psec {left:350px;font-size:1000%;}
-div.a1 {position:absolute;left:30px;top:20px;}
-div.a2 {position:absolute;left:350px;top:20px;}
-div.a3 {position:absolute;left:670px;top:20px;}
-div.a4 {position:absolute;left:990px;top:20px;}
+div#uname {left:670px;}
+div#df {top:460px;height:700;width:1000;}
+div.a {position:absolute;top:20px;width:300;height:200;}
+div.b1 {left:30px;top:20px;}
+div.b2 {left:350px;top:20px;}
+div.b3 {left:670px;top:20px;}
+div.b4 {left:990px;top:20px;}
