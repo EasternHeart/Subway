@@ -24,38 +24,3 @@ function id(x)
   if (typeof x == "string") return document.getElementById(x)
   return x
   }
-/*
-function mouseOverb(blockid)
-  {
-  id(blockid).src = "1.png"
-  }
-function mouseOutb(blockid)
-  {
-  id(blockid).src = "3.png"
-  }
-function mouseDownb(blockid)
-  {
-  id(blockid).src = "2.png"
-  }
-function mouseUpb(blockid)
-  {
-  id(blockid).src = "3.png"
-  }
-//--
-function mouseOverc(blockid)
-  {
-  id(blockid).innerHTML = "div#"+blockid+" {background-image:url(1.png);}"
-  }
-function mouseOutc(blockid)
-  {
-  id(blockid).innerHTML = "div#"+blockid+" {background-image:url(3.png);}"
-  }
-function mouseDownc(blockid)
-  {
-  id(blockid).innerHTML = "div#"+blockid+" {background-image:url(2.png);}"
-  }
-function mouseUpc(blockid)
-  {
-  id(blockid).innerHTML = "div#"+blockid+" {background-image:url(3.png);}"
-  }
-*/
