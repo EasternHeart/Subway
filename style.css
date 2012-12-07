@@ -1,3 +1,4 @@
+body {background-image:url("images/background/tuxbg.jpg");background-size:100% 100%;-o-background-size:100% 100%;-webkit-background-size:100% 100%;}
 p,h1,div {font-family:WenQuanYi MicroHei,Microsoft YaHei,文泉驿微米黑,微软雅黑,黑体,Sans;}
 div.block {background-image:url(3.png)}
 div.block:hover {background-image:url(1.png)}
