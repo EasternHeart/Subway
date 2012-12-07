@@ -1,4 +1,9 @@
-div.block#distro {background-image:url(images/distro/Linux.png)}
 
 
+div.block#terminal {background-image:url(images/b/terminal2.png)}
+
+div.block#chromium {background-image:url(images/b/chromium.png)}
+
+div#psec {left:350px;font-size:1000%;background-color:#FFB400;}
+div#uname {left:670px;background-color:#00FFFF}
 
