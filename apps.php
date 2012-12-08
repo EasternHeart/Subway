@@ -1,10 +1,10 @@
 <div id="distro" class="block a b1" onclick="dtoolbar_v()">
 
 </div>
-<div id="chromium" class="block a b2 action" onclick="onbclick('chromium')">
+<div id="chromium" class="block a b2 action" onclick="onbclick('Cubway-open Webb')">
 
 </div>
-<div id="terminal" class="block a b3 action" onclick="onbclick('lxterminal ||terminal ||konsole ||gnome-terminal ')">
+<div id="terminal" class="block a b3 action" onclick="onbclick('Cubway-open Terminal')">
 
 </div>
 <div id="b3" class="block a b4 action">
